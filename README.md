@@ -2,6 +2,15 @@
 <h3 align="center">CognitiveOps Architect • AI Systems Engineer</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/CognitiveOps-Architecture-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Systems-black?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<b>I Raise Standards.</b>
+</p>
+
+<p align="center">
 I don’t build projects.<br/>
 I design systems that think, learn, and evolve.
 </p>
@@ -14,6 +23,13 @@ It’s about operating intelligence at scale.
 ---
 
 ## 🧠 What I Work On
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Memory--Driven_AI-gray?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Feedback_Loops-gray?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Reasoning_Systems-gray?style=flat-square"/>
+</p>
+
 - AI systems with memory, feedback & reasoning  
 - Intelligence as infrastructure, not a feature  
 - Long-lived architectures that outlast frameworks  
@@ -25,15 +41,15 @@ I care less about tools — and more about **how intelligence behaves over time*
 ## 📊 Signal Over Noise
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshumishra610&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanshumishra610&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshumishra610&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshumishra610&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumishra610&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumishra610&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -41,4 +57,3 @@ I care less about tools — and more about **how intelligence behaves over time*
 <p align="center">
 <b>Code fades. Systems remain.</b>
 </p>
-

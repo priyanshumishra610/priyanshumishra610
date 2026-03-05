@@ -1,44 +1,72 @@
+<!-- HEADER -->
+
 <h1 align="center">Priyanshu Mishra</h1>
-<h3 align="center">CognitiveOps Architect • AI Systems Engineer</h3>
+
+<h3 align="center">AI Systems Engineer • CognitiveOps Architect</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CognitiveOps-Architecture-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Systems-black?style=for-the-badge"/>
+Designing intelligent systems that learn, reason, and evolve.
 </p>
 
 <p align="center">
-<b>I Raise Standards.</b>
-</p>
-
-<p align="center">
-I don’t build projects.<br/>
-I design systems that think, learn, and evolve.
-</p>
-
-<p align="center">
-<b>CognitiveOps</b> is not about deploying models.<br/>
-It’s about operating intelligence at scale.
+  <a href="https://github.com/priyanshumishra610">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer;CognitiveOps+Architect;Building+Intelligence+Infrastructure;Designing+Systems+That+Evolve"/>
+  </a>
 </p>
 
 ---
 
-## 🧠 What I Work On
+<p align="center">
+  <a href="https://github.com/priyanshumishra610">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Focus Areas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Memory--Driven_AI-gray?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Feedback_Loops-gray?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_Agents-gray?style=flat-square"/>
   <img src="https://img.shields.io/badge/Reasoning_Systems-gray?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Feedback_Loops-gray?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Intelligence_Infrastructure-gray?style=flat-square"/>
 </p>
 
-- AI systems with memory, feedback & reasoning  
-- Intelligence as infrastructure, not a feature  
-- Long-lived architectures that outlast frameworks  
+I build **long-lived intelligent systems** designed to:
 
-I care less about tools — and more about **how intelligence behaves over time**.
+• Learn from memory
+• Adapt through feedback
+• Reason across complex workflows
+• Improve continuously over time
+
+The goal is simple:
+
+**Create systems that become more capable the longer they run.**
 
 ---
 
-## 📊 Signal Over Noise
+## ⚙️ Engineering Philosophy
+
+Most software solves tasks.
+
+I design **systems that operate intelligence**.
+
+That means building architectures with:
+
+* persistent memory
+* reasoning pipelines
+* adaptive feedback loops
+* modular intelligence layers
+
+Technology evolves rapidly.
+
+**Strong systems endure.**
+
+---
+
+## 📊 Development Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshumishra610&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -57,3 +85,4 @@ I care less about tools — and more about **how intelligence behaves over time*
 <p align="center">
 <b>Code fades. Systems remain.</b>
 </p>
+

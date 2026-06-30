@@ -28,29 +28,6 @@
 
 ---
 
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║                                                                          ║
-║   ~/priyanshu $ ./boot_system.sh                                         ║
-║                                                                          ║
-║   [+] AI Engineering layer .............. ONLINE                         ║
-║   [+] Full-Stack runtime ................. ONLINE                        ║
-║   [+] MLOps pipeline ..................... ONLINE                        ║
-║   [+] Agentic reasoning core ............. ONLINE                        ║
-║   [+] Real-time infrastructure ........... ONLINE                        ║
-║   [+] Product design system .............. ONLINE                        ║
-║                                                                          ║
-║   STATUS: AI x Full-Stack x MLOps x Product                              ║
-║                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
----
-
 ## Engineering Philosophy
 
 <br/>
